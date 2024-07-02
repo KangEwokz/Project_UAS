@@ -49,9 +49,6 @@
 
 @section('mahasiswa')
 
-<h1>Mahasiswa</h1>
-<h1>TRPL</h1>
-<h1>Politeknik Enjinering Indorama</h1>
 <div class="table-responsive p-4">
   <div class="d-flex justify-content-between align-items-center mb-3">
     <h4 class="kartu-title kartu-link">Data Mahasiswa</h4>
